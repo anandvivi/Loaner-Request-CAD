@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="New Button (Task)">ecd0815083f896107f44d1bc1fda1e7c</button>
+        <color_theme/>
+        <description/>
+        <disable_offline>false</disable_offline>
+        <field_name/>
+        <icon/>
+        <label>New</label>
+        <location>top</location>
+        <name>New (Task)</name>
+        <order/>
+        <parent>58d0815083f896107f44d1bc1fda1e5e</parent>
+        <parent_table>sys_sg_screen</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-18 06:47:37</sys_created_on>
+        <sys_id>28d0815083f896107f44d1bc1fda1e87</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New (Task)</sys_name>
+        <sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">22ef3c9c83b896107f44d1bc1fda1eb3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">22ef3c9c83b896107f44d1bc1fda1eb3</sys_scope>
+        <sys_update_name>sys_sg_button_instance_28d0815083f896107f44d1bc1fda1e87</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-18 06:47:37</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=28d0815083f896107f44d1bc1fda1e87"/>
+</record_update>
